@@ -1,0 +1,6 @@
+pandas>=2.2
+numpy>=1.26
+yfinance>=0.2.40
+alpaca-py>=0.30
+anthropic>=1.15
+pytest>=8
